@@ -1,3 +1,6 @@
+!/logs/placeholder
+!/email_templates/placeholder
+!/documents/example_users_to_reenroll.csv
 #File types to ignore
 *.json
 *.log

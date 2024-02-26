@@ -43,7 +43,7 @@ urllib3==2.1.0
 #### Populate okta_apps.csv
 First, populate the ```okta_apps.csv``` file with the names (labels) of Okta applications you wish to target in the script.
 #### Configure .env file
-Make sure to populate the ```.env``` file with your __Okta API token__, __Okta URL__, and __Log file name__.
+Make sure to populate the ```.env-example``` file with your __Okta API token__, __Okta URL__, and __Log file name__, and rename the file to just ```.env```.
 #### Install dependencies
 Install python dependencies 
 ```bash
