@@ -56,7 +56,7 @@ Run the script ```find_app_users_no_device.py```. The script *may take a long ti
 python3.10 find_app_users_no_device.py
 ```
 
-TO BE CONTINUED
+TO BE CONTINUED - discuss okta_enrollment_handler.py - actually does the reset of factors, etc. 
 
 ## Authors
 
